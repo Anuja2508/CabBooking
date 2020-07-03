@@ -1,0 +1,16 @@
+
+env: local
+version: 3.0
+passwordKey: 0nc)p0!!er
+
+postgres:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: sharma
+  dbname: CabBooking
+  sslmode: disable
+
+
+backend:
+ port: 3001
