@@ -1,7 +1,5 @@
 
 env: local
-version: 3.0
-passwordKey: 0nc)p0!!er
 
 postgres:
   host: localhost
